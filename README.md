@@ -1,2 +1,2 @@
-# pyphot-alds
-A Python package for advanced laser diode simulator 
+# pyphot-active
+A Python package for active device simulation
